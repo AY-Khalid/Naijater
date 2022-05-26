@@ -216,6 +216,9 @@ footer nav ul li a{
         height: 200px;
     }
 
+    .logo{
+        font-size: 30px;
+    }
     .topics{
         display: none;
     }
@@ -226,6 +229,8 @@ footer nav ul li a{
 
     header{
         display: block;
+        line-height: 10px;
+        overflow: auto;
     }
 
     .showcase{
